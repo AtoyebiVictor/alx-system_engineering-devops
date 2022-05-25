@@ -1,1 +1,1 @@
-print the type of the file
+create a link
