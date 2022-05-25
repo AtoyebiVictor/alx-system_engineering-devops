@@ -1,1 +1,1 @@
-list all files
+print the type of the file
