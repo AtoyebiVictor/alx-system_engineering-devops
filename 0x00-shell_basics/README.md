@@ -1,1 +1,1 @@
-#!/bin/bash
+current directory contents
