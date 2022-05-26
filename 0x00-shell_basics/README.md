@@ -1,1 +1,1 @@
-magic file
+move file
