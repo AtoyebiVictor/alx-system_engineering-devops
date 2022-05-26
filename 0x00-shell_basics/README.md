@@ -1,1 +1,1 @@
-symbol
+move
